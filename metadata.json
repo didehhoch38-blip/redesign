@@ -1,0 +1,8 @@
+{
+  "name": "ClutterFree AI - Room Organization & Declutter Studio",
+  "description": "Upload room photos to get instant AI-powered organization blueprints, clutter hotspot detection, step-by-step decluttering roadmaps, and an interactive multi-turn organizer chat powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
